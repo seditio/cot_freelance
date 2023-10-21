@@ -1,6 +1,6 @@
 <?php
 /**
- * Payprjtop plugin
+ * Payprjtop RU Locale
  *
  * @package payprjtop
  * @version 1.0
@@ -26,4 +26,5 @@ $L['payprjtop_day'] = (isset($L['payprjtop_day'])) ? $L['payprjtop_day'] : 'де
 
 $L['payprjtop_buy_prodlit'] = (isset($L['payprjtop_buy_prodlit'])) ? $L['payprjtop_buy_prodlit'] : "Закреплен до %1\$s. <a href=\"%2\$s\">Продлить</a>";
 
-?>
+$L['payprjtop_metaTitle'] = 'Услуга "Закрепить проект"';
+$L['payprjtop_metaDesc'] = 'Оплатив данную услугу, Вы можете закрепить проект';

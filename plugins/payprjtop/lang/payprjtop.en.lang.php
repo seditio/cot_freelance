@@ -1,6 +1,6 @@
 <?php
 /**
- * Payprjtop plugin
+ * Payprjtop EN Locale
  *
  * @package payprjtop
  * @version 1.0
@@ -26,4 +26,5 @@ $L['payprjtop_day'] = (isset($L['payprjtop_day'])) ? $L['payprjtop_day'] : 'day'
 
 $L['payprjtop_buy_prodlit'] = (isset($L['payprjtop_buy_prodlit'])) ? $L['payprjtop_buy_prodlit'] : "Top by %1\$s. <a href=\"%2\$s\">Extend</a>";
 
-?>
+$L['payprjtop_metaTitle'] = 'Sticky Project';
+$L['payprjtop_metaDesc'] = 'Pay and stick the project to the top of the list';
